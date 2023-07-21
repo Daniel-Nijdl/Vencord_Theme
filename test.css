@@ -24,7 +24,7 @@
       /* --channels-unread: #ff0000; */
       --interactive-normal: var(--bodytext);
       --interactive-active: var(--bodytext);
-      --interactive-muted: #ff00dd;
+      --interactive-muted: #cccccc;
       --background-primary: var(--pagecolor);
       --background-secondary: var(--pagecolor);
       --background-tertiary: var(--pagecolor);
